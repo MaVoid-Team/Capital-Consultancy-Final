@@ -55,3 +55,8 @@ eval-results/
 benchmark-results/
 artifacts/last-harness*.txt
 
+.vercel
+
+# Junk / non-production files
+*.plan.md
+.codegraph/
