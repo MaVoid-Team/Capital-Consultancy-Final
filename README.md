@@ -1,16 +1,28 @@
-# React + Vite
+# Capital Consultancy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Engineering excellence for complex systems — a marketing site that makes multidisciplinary consulting feel clear, premium, and easy to act on.
 
-Currently, two official plugins are available:
+## Who it’s for
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Owners, developers, and contractors who need engineering, MEP, and infrastructure partners — plus anyone who wants a fast, human read on what Capital Consultancy actually does.
 
-## React Compiler
+## Outcomes
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- See the full service range: technical consulting, design & planning, smart infrastructure, project management, and commissioning
+- Match the work to a sector — utilities, commercial, industrial, healthcare, public projects, and energy
+- Walk the story from concept to completion without wading through a deck
+- Reach a consultation request when you’re ready to start
 
-## Expanding the ESLint configuration
+## Try it
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The live site is up: [https://capital-consultancy.vercel.app](https://capital-consultancy.vercel.app)
+
+## How it works
+
+Home, services, industries, projects, about, and contact. It’s a focused front door: show the expertise, then hand visitors a way to start a project.
+
+---
+
+Built by [Ziad Ahmed](https://github.com/Ziad-NasrEldin) at [MaVoid](https://mavoid.com).
+
+[Website](https://mavoid.com) · [LinkedIn](https://linkedin.com/in/ziad-ahmed-634202332) · [GitHub](https://github.com/Ziad-NasrEldin)
