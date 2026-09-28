@@ -88,6 +88,7 @@ Default section order:
 
 - Project: capital-consultancy-ag.
 - Repository root: `Capital-Consultancy-Final`.
+- Public README (`README.md`) is the creator-style product page: title, audience, outcomes, live demo, short how-it-works, MaVoid footer. Keep it current when the public product story changes.
 - This DOX index is generated from stable source, docs, and config paths only.
 - Private files, local environment files, dependency folders, build outputs, caches, and binary asset dumps are intentionally excluded from the DOX tree.
 - Package manager detected from lockfile: `npm`.
